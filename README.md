@@ -8,7 +8,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Pablo-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://tailwindcss.com/"><img alt="Pablo-Tailwindcss" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwindcss-icon-icon-512x307-0w231hvl.png"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="Pablo-Typescript" height="30" width="30" src="https://titrias.com/files/2022/04/typescript.png"></a>
+  <!--<a href="https://www.typescriptlang.org/"><img alt="Pablo-Typescript" height="30" width="30" src="https://titrias.com/files/2022/04/typescript.png"></a>-->
 </div>
 
 ##
