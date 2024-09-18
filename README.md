@@ -9,6 +9,7 @@
   <a href="https://tailwindcss.com/"><img alt="Pablo-Tailwindcss" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwindcss-icon-icon-512x307-0w231hvl.png"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://nodejs.org/en"><img alt="Pablo-Node-js" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"></a>
+  <a href="https://www.mysql.com/"><img alt="Pablo-Mysql" height="30" width="30" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png"></a>
   <!--<a href="https://www.typescriptlang.org/"><img alt="Pablo-Typescript" height="30" width="30" src="https://titrias.com/files/2022/04/typescript.png"></a>-->
 </div>
 
