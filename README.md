@@ -6,7 +6,7 @@
 <div style="display: inline_block">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="Pablo-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="Pablo-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://tailwindcss.com/"><img alt="Pablo-Tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg"></a>
+  <a href="https://tailwindcss.com/"><img alt="Pablo-Tailwindcss" height="30" width="30" src="https://www.svgrepo.com/show/374118/tailwind.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://nodejs.org/en"><img alt="Pablo-Node-js" height="30" width="30" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"></a>
   <a href="https://www.mysql.com/"><img alt="Pablo-Mysql" height="30" width="30" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png"></a>
