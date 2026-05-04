@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre
 
-Desenvolvedor **Full Stack** foco em Angular e .NET, construindo aplicações web modernas, APIs REST e sistemas escaláveis. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura como MVC, arquitetura em camadas e princípios SOLID.
+Desenvolvedor **Full Stack** foco em Angular e .NET, construindo aplicações web modernas, APIs REST e sistemas escaláveis. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID.
 
 - 🎨 Frontend: Construção de interfaces responsivas, priorizando componentização, consumo de APIs e UX.
 - ⚙️ Backend: Desenvolvimento de APIs utilizando Clean Architecture, CQRS e princípios SOLID.
