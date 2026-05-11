@@ -10,6 +10,7 @@ Desenvolvedor **Full Stack** foco em Angular e .NET, construindo aplicações we
 - ⚙️ Backend: Desenvolvimento de APIs utilizando Clean Architecture, CQRS e princípios SOLID.
 - 🔐 Autenticação: Implementação de fluxos seguros com JWT e Refresh Tokens.
 - 🚀 Deploy & DevOps: Automação de pipelines via GitHub Actions, containerização com Docker e gestão de dados em SQL.
+- 🤖 Integração com LLMs: Desenvolvimento de funcionalidades com IA utilizando modelos da OpenAI e Anthropic, incluindo automação inteligente, geração de insights, processamento de linguagem natural e integração via APIs.
 
 ## 🛠️ Tech Stack
 
