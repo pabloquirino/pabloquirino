@@ -4,15 +4,33 @@
 
 ## 👨‍💻 Sobre
 
-Desenvolvedor **Full Stack** foco em Angular e .NET, construindo aplicações web modernas, APIs REST e sistemas escaláveis. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID.
+Desenvolvedor **Full Stack** com foco em **Angular + .NET + Python/FastAPI para IA e automação**, construindo aplicações web modernas, APIs REST, automações inteligentes e soluções baseadas em IA. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID. Também desenvolvo serviços em Python utilizando FastAPI para automação de processos, integrações com IA generativa, processamento de documentos e construção de workflows inteligentes.
+
+</br>
+
+- 🤖 Automação e IA: Desenvolvimento de microsserviços em Python e FastAPI para automação de processos, integração com LLMs, processamento de documentos, extração de informações, geração de insights e criação de fluxos inteligentes através de APIs.
 
 - 🎨 Frontend: Construção de interfaces responsivas, priorizando componentização, consumo de APIs e UX.
+
 - ⚙️ Backend: Desenvolvimento de APIs utilizando Clean Architecture, CQRS e princípios SOLID.
+
 - 🔐 Autenticação: Implementação de fluxos seguros com JWT e Refresh Tokens.
+
 - 🚀 Deploy & DevOps: Automação de pipelines via GitHub Actions, containerização com Docker e gestão de dados em SQL.
-- 🤖 Integração com LLMs: Desenvolvimento de funcionalidades com IA utilizando modelos da OpenAI e Anthropic, incluindo automação inteligente, geração de insights, processamento de linguagem natural e integração via APIs.
+  
+</br>
 
 ## 🛠️ Tech Stack
+
+#### Automação & IA
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
 
 #### Backend
 <p>
