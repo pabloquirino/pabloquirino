@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=SOFTWARE%20DEVELOPER&fontSize=50&fontColor=ffffff&fontAlign=50" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre
