@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C1D,100:1E5E3A&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:6B6B6B&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre
@@ -68,27 +68,6 @@ Desenvolvedor focado em engenharia de Inteligência Artificial com sólido backg
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloquirino&theme=github-dark-blue"/>
 </div>
 
-<br/>
-
-## 📩 Contatos
 <div align="center">
-  <a href="https://wa.me/5521983997371">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pabloquirino.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pablo-quirino-53138a271">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pabloquirino.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfólio"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C1D,100:1E5E3A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:6B6B6B&height=120&section=footer"/>
 </div>
