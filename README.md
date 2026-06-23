@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:6B6B6B&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre
@@ -65,9 +65,9 @@ Desenvolvedor focado em engenharia de Inteligência Artificial com sólido backg
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloquirino&theme=github-dark-blue"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloquirino&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:6B6B6B&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
 </div>
