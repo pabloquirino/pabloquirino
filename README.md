@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240643,100:DD0031&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C1D,100:1E5E3A&height=200&section=header&text=Pablo%20Quirino&fontSize=50&fontColor=ffffff&fontAlign=50&desc=AI%20Engineer&descAlign=50&descAlignY=70" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre
 
-Desenvolvedor **Full Stack** com foco em **Angular + .NET + Python/FastAPI para IA e automação**, construindo aplicações web modernas, APIs REST, automações inteligentes e soluções baseadas em IA. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID. Também desenvolvo serviços em Python utilizando FastAPI para automação de processos, integrações com IA generativa, processamento de documentos e construção de workflows inteligentes.
+Desenvolvedor focado em engenharia de Inteligência Artificial com sólido background **Full Stack (Angular + .NET + Python/FastAPI)**, construindo aplicações web modernas, APIs REST, automações inteligentes e soluções baseadas em IA. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID. Também desenvolvo serviços em Python utilizando FastAPI para automação de processos, integrações com IA generativa, processamento de documentos e construção de workflows inteligentes.
 
 </br>
 
@@ -90,5 +90,5 @@ Desenvolvedor **Full Stack** com foco em **Angular + .NET + Python/FastAPI para 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240643,100:AD1919&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C1D,100:1E5E3A&height=120&section=footer"/>
 </div>
