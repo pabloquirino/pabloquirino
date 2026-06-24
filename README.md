@@ -8,15 +8,15 @@ Desenvolvedor focado em IA + Automação com sólido background **Full Stack (An
 
 </br>
 
-- 🤖 Automação e IA: Desenvolvimento de microsserviços em Python e FastAPI para automação de processos, integração com LLMs, processamento de documentos, extração de informações, geração de insights e criação de fluxos inteligentes através de APIs.
+- 🤖 **Automação e IA**: Desenvolvimento de microsserviços em Python e FastAPI para automação de processos, integração com LLMs, processamento de documentos, extração de informações, geração de insights e criação de fluxos inteligentes através de APIs.
 
-- 🎨 Frontend: Construção de interfaces responsivas, priorizando componentização, consumo de APIs e UX.
+- 🎨 **Frontend**: Construção de interfaces responsivas, priorizando componentização, consumo de APIs e UX.
 
-- ⚙️ Backend: Desenvolvimento de APIs utilizando Clean Architecture, CQRS e princípios SOLID.
+- ⚙️ **Backend**: Desenvolvimento de APIs utilizando Clean Architecture, CQRS e princípios SOLID.
 
-- 🔐 Autenticação: Implementação de fluxos seguros com JWT e Refresh Tokens.
+- 🔐 **Autenticação**: Implementação de fluxos seguros com JWT e Refresh Tokens.
 
-- 🚀 Deploy & DevOps: Automação de pipelines via GitHub Actions, containerização com Docker e gestão de dados em SQL.
+- 🚀 **Deploy & DevOps**: Automação de pipelines via GitHub Actions, containerização com Docker e gestão de dados em SQL.
   
 </br>
 
