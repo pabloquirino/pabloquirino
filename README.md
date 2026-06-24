@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre
 
-Desenvolvedor focado em engenharia de Inteligência Artificial com sólido background **Full Stack (Angular + .NET + Python/FastAPI)**, construindo aplicações web modernas, APIs REST, automações inteligentes e soluções baseadas em IA. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID. Também desenvolvo serviços em Python utilizando FastAPI para automação de processos, integrações com IA generativa, processamento de documentos e construção de workflows inteligentes.
+Desenvolvedor focado em IA + Automação com sólido background **Full Stack (Angular + .NET + Python/FastAPI)**, construindo aplicações web modernas, APIs REST, automações inteligentes e soluções baseadas em IA. Atuo no desenvolvimento de aplicações completas, desde o front-end com Angular e TypeScript (SPAs, componentização, integração com APIs e interfaces responsivas) até o back-end com C# e .NET, criando APIs REST seguindo boas práticas de arquitetura em camadas e princípios SOLID. Também desenvolvo serviços em Python utilizando FastAPI para automação de processos, integrações com IA generativa, processamento de documentos e construção de workflows inteligentes.
 
 </br>
 
